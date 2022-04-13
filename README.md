@@ -36,6 +36,7 @@ JAVA_HOME="/usr/lib/jvm/jdk-17.0.2"
 Now we can run the script
 ```
 git clone https://github.com/Alkanoidwastaken/argocdserverinstall.git
+cd argocdserverinstall
 chmod +x setup.sh
 sudo ./setup.sh
 ```
